@@ -1,5 +1,7 @@
 # JavaScript-UniversityOfSydney
 
+This course is taken in 2023
+
 This repository contains code for:
 
 * Tutorial excersices
